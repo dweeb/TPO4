@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TPO4_SP_S17717:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/TPO4_SP_S17717_war</output-path>
+    <root id="archive" name="TPO4_SP_S17717_war.war">
+      <element id="artifact" artifact-name="TPO4_SP_S17717:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.20.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
